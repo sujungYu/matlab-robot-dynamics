@@ -1,4 +1,8 @@
-# 로봇 역학
+<h1 align='center'>로봇역학</h1>
+<p align='center'>
+<img src='https://user-images.githubusercontent.com/87973617/222624932-5496dbf8-09ee-4973-acb7-97369879a163.gif'>
+</p>
+
 ## 1. 로봇의 동역학 모델 방정식
 ### 2link Dynamics
 ![image](https://user-images.githubusercontent.com/87973617/222338629-4ff32445-0e3a-4b4b-956d-c5908be49ae2.png)
